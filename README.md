@@ -25,3 +25,4 @@ I am a final-year Electronics and Communication Engineering (ECE) student specia
 * 📍 Delhi, India
 * 🏫 Netaji Subhas University of Technology
 * 📧 Email: utkbgl11@gmail.com
+* LinkedIn: www.linkedin.com/in/utk-bgl
